@@ -1,0 +1,26 @@
+.clinic{
+    margin: 0 0 0 20vw;
+}
+.s{
+    padding: 0 0 0 55vw;
+}
+footer
+{
+    background-color: #659DBD;
+    padding: 5px 5px 5px 5px;
+    text-decoration: none;
+}
+.can{
+    padding: 0 0 0 50px;
+}
+.drop:hover>.drop:menu{
+display: block;
+}
+.p,
+.q,
+.r{
+    padding: 0 5px 0 0;
+}
+.body{
+    background-color: whitesmoke;
+}
